@@ -1,6 +1,6 @@
 # Olá, eu sou Gustavo
-- 👨🏿‍🏫 Atualmente trabalho como Docente no Senac DF
-- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, WordPress, PHP, Java, Python e Banco de Dados
+- 👨🏿‍🏫 Atualmente trabalho como Docente na G4F como Jovem Aprendiz 
+- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, PHP, Python e Banco de Dados
 - 📽️ Procuro colaborar no desenvolvimento de projetos
 - 🧑🏿‍💻 Pergunte-me sobre Desenvolvimento de Sistemas
 
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
    <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Rafa-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+  <img align="center" alt="Gustavo-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
   </div>
   
   ##
