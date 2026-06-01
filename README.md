@@ -13,7 +13,7 @@
 ## 👨🏾‍💻 Sobre Mim
 
 * 👨🏾‍🏫 Atualmente atuo como **Jovem Aprendiz na G4F**
-* 🎓 Estudante da área de Tecnologia
+* 🎓 Estudante da área de Análise e Desenvolvimento de Sistemas
 * 💡 Experiência com Desenvolvimento Front-End, Python, PHP e Banco de Dados
 * 🎨 Desenvolvimento de interfaces utilizando Figma
 * 🤝 Aberto para colaborar em projetos e novas oportunidades
